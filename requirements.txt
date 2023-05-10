@@ -1,0 +1,9 @@
+requests
+google-cloud
+pandas==1.3.1
+xlrd==1.2.0
+pyarrow==3.0.0
+openpyxl==3.0.9
+db-dtypes
+numpy
+pandas-gbq
